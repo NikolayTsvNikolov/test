@@ -74,7 +74,7 @@ public class Developing {
 					} else {
 						sortNumbers(Ai);
 						System.out.println("-----------------------------------------------");
-						System.out.println("Duration of priority task is "+ Ai[k - 1] + " in minutes");
+						System.out.println("Duration of priority task is "+ Ai[k - 1] + "  minutes");
 						System.out.println("-----------------------------------------------");
 
 					}
